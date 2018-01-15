@@ -1,0 +1,59 @@
+.body {
+    text-align: center;
+    border-style: solid;
+    border-color: silver;
+    border-width: 5px;
+}
+
+.outside-box {
+	background-color: white;
+  margin: 15px;
+}
+.title-box {
+	font-family: 'Joti One', Cursive;
+  color: white;
+  font-size: 100px;
+  padding: 25px;
+  background: black;
+}
+
+.subtitle {
+  font-family: 'Joti One', Cursive;
+  color: black;
+  font-size: 50px;
+  text-align: center;
+}
+
+.image-box {
+	padding: 20px;
+	margin: 20px;
+}
+
+p {
+    color: black;
+    font-size: 14px;
+    font-family: Open Sans;
+    font-weight: bold;
+}
+
+.image-border {
+	border: 10px solid silver;
+	border-radius: 50%;
+}
+
+.larger-image {
+	width: 800px;
+}
+
+.list {
+  margin: 0% 35% 3% 37%;
+  text-align: left;
+}
+
+.link {
+	color: teal;
+}
+
+.main-text {
+  margin: 0% 20% 3%;
+}
